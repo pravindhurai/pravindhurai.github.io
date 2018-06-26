@@ -1,0 +1,33 @@
+body{
+    }
+
+.agile-titles h3 {
+     color: #111;
+    font-size: 3.3em;
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Courgette', cursive;
+}
+.about-wel h2 {
+    font-size: 2em;
+    color: #f14545;
+    letter-spacing: 3px;
+    font-family: 'Montserrat', sans-serif;
+}
+.about-wel p {
+    color: #777;
+    margin: 1em 0 1.5em;
+}
+.footer-agile {
+    padding: 4em 0;
+    background:url(../images/bg7.jpg)no-repeat center 0px;
+    background-size: cover;
+    position: relative; 
+}
+.jarallax {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
